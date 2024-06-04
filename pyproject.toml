@@ -6,12 +6,12 @@ authors = ["arseniy <snow_2015@list.ru>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 pydantic = "^2.7.2"
 aiogram = "^3.6.0"
 openai = "^1.30.5"
 pydantic-settings = "^2.2.1"
-
+openai-whisper = {git = "https://github.com/openai/whisper"}
 
 [tool.poetry.group.dev.dependencies]
 setuptools = "^70.0.0"
