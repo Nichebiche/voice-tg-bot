@@ -3,3 +3,5 @@ TELEGRAM_TOKEN = "zxc"
 OPENAI_API_KEY = "99"
 
 2. Launch src/main.py 
+
+3. Relax

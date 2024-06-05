@@ -1,0 +1,8 @@
+.gitignore
+/.env
+/temp
+/db
+*.vscode
+*.pyc
+sessions.db
+log.log
